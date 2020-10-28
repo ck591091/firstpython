@@ -1,2 +1,2 @@
-# firstpython
+# firstpython.py
 code 
